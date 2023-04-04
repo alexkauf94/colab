@@ -5,6 +5,3 @@
 
 
 123
-=======
-Текст
->>>>>>> parent of c5a853e (README changed)
